@@ -75,9 +75,10 @@
 
 ## <🫱🫲🏻/> Support Me
 
-<a href="https://www.buymeacoffee.com/dharshan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
+<a href="https://www.buymeacoffee.com/dharshan" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" height="40px" width="auto"></a>
 <br>
-For Indian Users
-<a href="sksiva780@oksbi" target="_blank"><img src="https://img.shields.io/badge/G%20pay-2875E3?style=for-the-badge&logo=googlepay&logoColor=white" alt="Buy Me A Coffee" height="60px" width="200px"></a>
+<h3>For Indian Users</h3>
+
+<a href="sksiva780@oksbi" target="_blank"><img src="https://img.shields.io/badge/G%20pay-2875E3?style=for-the-badge&logo=googlepay&logoColor=white" alt="Buy Me A Coffee" height="40px" width="auto"></a>
 
 
