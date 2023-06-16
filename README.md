@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> Hi! It's Sivadharshan V</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Hi! It's Sivadharshan V</h1>
 
 <!--
 **Dharshan078/Dharshan078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
