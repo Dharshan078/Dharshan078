@@ -57,7 +57,7 @@
 </p>
 
 ## <📊/> My GitHub Data
-<div>
+<div align="center">
 <img align="center" alt="Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharshan078&theme=red-white" height="195px"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharshan078&" alt="soumyajit" />
 </div>
