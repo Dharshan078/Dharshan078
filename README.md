@@ -21,7 +21,7 @@
 
 - Looking for Job in `Web Development or UX-UI Designing field`.
 
-- Life Tip - `**If I commit I will give my 100% Effort**`
+- Life Tip - **`If you commit you should take responsibility and should give your 100% Effort`**
 
 - You Can see my UX-UI works on my **[`UX-UI Portfolio`](https://sivadharshan980.wixsite.com/dharshan-uxportfolio)**
 
