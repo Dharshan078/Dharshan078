@@ -11,21 +11,21 @@
 
 <img  src="./work.gif" height="290px" align="right" />
 
-- Im a **Front-End Web Developer** and **Electrical and Electronics Engineer**.
+- Im a **`Front-End Web Developer`** , **`Electrical and Electronics Engineer`**.
 
-- You find more about me in my **[Personal Website](https://sivadharshan.netlify.app/)**.
+- You can find all about me in my **[`Personal Website`](https://sivadharshan.netlify.app/)**.
 
-- Currently learning Front-End Web Development Frame Works.
+- Currently learning Front-End Web Development `Frame Works`.
 
-- I'm looking to collaborate with developers for Web Development Projects.
+- I'm looking to `collaborate with developers for Web Development Projects`.
 
-- Looking for Job in Web Development or UX-UI Designing field.
+- Looking for Job in `Web Development or UX-UI Designing field`.
 
-- Life Tip - **If I commit I will give my 100% Effort**
+- Life Tip - `**If I commit I will give my 100% Effort**`
 
-- You Can see my UX-UI works on my **[UX-UI Portfolio](https://sivadharshan980.wixsite.com/dharshan-uxportfolio)**
+- You Can see my UX-UI works on my **[`UX-UI Portfolio`](https://sivadharshan980.wixsite.com/dharshan-uxportfolio)**
 
-- Learn Web Development by using my **[E-Book](https://www.amazon.com/Front-End-Development-JavaScript-React-js-Bootstrap-ebook/dp/B0C547RCVB/ref=sr_1_1?crid=397K6SXL2ZR90&keywords=front-end+development+ebook+using+react.js&qid=1684074436&sprefix=front-end+development+ebook+using+react.%2Caps%2C461&sr=8-1&tag=aurum0a-20)**
+- I had written a book on  **[`Web Development`](https://www.amazon.com/Front-End-Development-JavaScript-React-js-Bootstrap-ebook/dp/B0C547RCVB/ref=sr_1_1?crid=397K6SXL2ZR90&keywords=front-end+development+ebook+using+react.js&qid=1684074436&sprefix=front-end+development+ebook+using+react.%2Caps%2C461&sr=8-1&tag=aurum0a-20)**
 
 ## <⚒️/> Technologies and Tools I use
 
@@ -62,9 +62,22 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharshan078&" alt="soumyajit" />
 </div>
 
-## ❤️ Let's get connected:
+## <💬/> Connect with me on
 
-<p><a href="https://sivadharshan.netlify.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-SIVADHARSHAN-blueviolet?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://twitter.com/soumyajit4419" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/soumyajit4419/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://soumyajitblogs.vercel.app/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/soumyajit4419" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+<p>
+  
+  <a href="https://sivadharshan.netlify.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-SIVADHARSHAN-blueviolet?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> 
+  <a href="https://twitter.com/dharshan078" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> 
+  <a href="https://www.linkedin.com/in/sivadharshan-v-ab35a11b5/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
+  <a href="https://www.instagram.com/dharsh_official_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+  
 </p>
+
+## <🫱🫲🏻/> Support Me
+
+<a href="https://www.buymeacoffee.com/dharshan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
+<br>
+For Indian Users
+<a href="sksiva780@oksbi" target="_blank"><img src="https://img.shields.io/badge/G%20pay-2875E3?style=for-the-badge&logo=googlepay&logoColor=white" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
 
